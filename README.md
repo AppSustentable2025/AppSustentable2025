@@ -19,7 +19,7 @@ Uses Composer for laravel installation. Get Composer [here](https://getcomposer.
 Use **GIT** for cloning the repository ( Can download from repository also )
 
 ```bash
-git clone (https://github.com/AppSustentable2025/AppSustentable2025/tree/main)
+git clone [https://github.com/AppSustentable2025/AppSustentable2025/tree/main]
 ```
 
 Create .env file ( *copy the content from .env.example* !important )
