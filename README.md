@@ -15,8 +15,7 @@ Esta plataforma web, administra las actividades extracurriculares de la Utcj.
 Uses Composer for laravel installation. Get Composer [here](https://getcomposer.org/download/).
 
 ## Installation
-
-Use **GIT** for cloning the repository ( Can download from repository also )
+- Composer install
 
 ```bash
 git clone [https://github.com/AppSustentable2025/AppSustentable2025]
